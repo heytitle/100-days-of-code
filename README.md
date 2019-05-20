@@ -8,7 +8,7 @@
     1. Thai-Eng Dict
     2. 13 ฟอนต์แห่งชาติจาก SIPA 
     
-    **โดยสิ่งที่อยากทำเพิ่มคือ** เพิ่ม Fomula ของ Thai fonts จาก [f0nt.com](http://f0nt.com) และ Formula สำหรับ SWATH ซึ่งเป็น library ที่ใช้สำหรับตัดคำภาษาไทย
+    **โดยสิ่งที่อยากทำเพิ่มคือ** เพิ่ม Fomula ของ Thai fonts จาก [f0nt.com](http://f0nt.com) 
 
 2. [Databuri][databuri]: ตัวโปรเจ็คนี้จะเป็น Python Package ที่รวม datasets ที่เกี่ยวข้องกับประเทศไทย ไว้ในที่เดียวกัน และเป็น Proxy สำหรับ APIs ต่างๆ ที่ทางภาครัฐมี 
 3. Hanuman: อีกโปรเจ็คที่อยากทำคือ Python Package ที่ใช้สำหรับ run command ตาม template เช่น เรามี parameters คือ `algorithm={ fast_alg, slow_alg }` กับ `dataset={ big, small}`
